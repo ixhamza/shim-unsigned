@@ -1,3 +1,9 @@
+shim (16.0+truenas-1) bookworm; urgency=medium
+
+  * Bump version for TrueNAS build.
+
+ -- Ameer Hamza <ahamza@ixsystems.com>  Tue, 27 Apr 2025 09:08:22 +0200
+
 shim (16.0-1+pmx1) bookworm; urgency=medium
 
   [ Mate Kukri ]
